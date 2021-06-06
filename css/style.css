@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	
+	
+	
+	font-family: Arial, Helvetica, sans-serif;
+	color: #16212c;
+	background: #e9edf0;
+}
+.hero-image{
+	
+	width: 100%;
+}
+
+.figImage{float: left;
+	margin-right: 0px;
+	padding-right: 0px;
+	width: 45%;
+}
+figcaption{
+	margin-left: 0px;
+	float: right;
+	width: 50%;
+	padding-left: 0px;
+}
+
+
+
+
+
+
+	
+.bloc_droit {
+	border: 1px solid #eef1f5;
+	
+	background: #fafbfc;
+	padding: 0px;
+	
+}
+
+
+.titre_blog {
+	font-size: 10px;
+	font-size: 10px;
+	font-family: arial,sans-serif;
+	font-weight: bold;
+	color: #a2a9ae;
+	text-transform: uppercase;
+}
+
+.les-blogs {	
+	padding: 0 16px;
+	margin: 0;
+	font-size: 18px;
+	line-height: 30px;
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'FetteEngschrift','Arial Narrow',sans-serif;
+	font-weight: bold;
+	background: #30932e;
+}
+.blogs{
+	display: block;
+	height: 31px;
+	overflow: hidden;
+	font-weight:bold;
+}
